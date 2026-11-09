@@ -47,7 +47,7 @@
         "gn:id":20050
     },
     "wof:country":"CY",
-    "wof:geomhash":"ad2eb7e92476f6db4e596dd86b7ffe60",
+    "wof:geomhash":"d44eb4e320030f9cab1f4d8955ba49b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     33.47444,
     35.33069000000001
 ],
-  "geometry": {"coordinates":[33.47444,35.33069000000001],"type":"Point"}
+  "geometry": {"coordinates":[33.47444,35.33069],"type":"Point"}
 }

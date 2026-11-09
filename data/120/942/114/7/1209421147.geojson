@@ -50,7 +50,7 @@
         "gn:id":8531733
     },
     "wof:country":"CY",
-    "wof:geomhash":"578e56f627af37f66fb12b8dfc7c90b1",
+    "wof:geomhash":"5acc4a532ad18e19a9c2844686489e2c",
     "wof:hierarchy":[
         {
             "country_id":85632437,
@@ -73,5 +73,5 @@
     33.4986,
     35.16034000000001
 ],
-  "geometry": {"coordinates":[33.4986,35.16034000000001],"type":"Point"}
+  "geometry": {"coordinates":[33.4986,35.16034],"type":"Point"}
 }

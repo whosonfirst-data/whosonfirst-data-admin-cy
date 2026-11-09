@@ -54,7 +54,7 @@
         "wk:page":"Zakaki"
     },
     "wof:country":"CY",
-    "wof:geomhash":"96bcd76c4df31e2127561695c3aa4c38",
+    "wof:geomhash":"ffc989ea0b5a722b0801b4eb49d597d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     33.0026,
     34.65864000000001
 ],
-  "geometry": {"coordinates":[33.0026,34.65864000000001],"type":"Point"}
+  "geometry": {"coordinates":[33.0026,34.65864],"type":"Point"}
 }

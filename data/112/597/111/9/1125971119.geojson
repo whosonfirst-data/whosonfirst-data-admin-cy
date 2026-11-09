@@ -96,7 +96,7 @@
     },
     "wof:country":"CY",
     "wof:created":1497298168,
-    "wof:geomhash":"ee5ce3ce92bf3085097d4aec680c281d",
+    "wof:geomhash":"81283f6afb9a265a55eb687b2ddc821e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,5 +123,5 @@
     32.475,
     35.0
 ],
-  "geometry": {"coordinates":[32.475,35.0],"type":"Point"}
+  "geometry": {"coordinates":[32.475,35],"type":"Point"}
 }

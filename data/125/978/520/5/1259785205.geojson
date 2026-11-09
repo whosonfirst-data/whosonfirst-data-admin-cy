@@ -53,7 +53,7 @@
         "wk:page":"Go%C5%9F%C5%9Fi"
     },
     "wof:country":"CY",
-    "wof:geomhash":"a91085bc13d2a8ae5bcb1337e3968e42",
+    "wof:geomhash":"fae9639089c237fbd61f59056992364a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     33.51893,
     34.97734000000001
 ],
-  "geometry": {"coordinates":[33.51893,34.97734000000001],"type":"Point"}
+  "geometry": {"coordinates":[33.51893,34.97734],"type":"Point"}
 }

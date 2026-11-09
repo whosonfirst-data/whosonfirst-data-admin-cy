@@ -77,7 +77,7 @@
         "wk:page":"Skylloura"
     },
     "wof:country":"CY",
-    "wof:geomhash":"f735c8d6d29be90d9274edbfab2394a0",
+    "wof:geomhash":"602eb3383baaf496a2ad44bf611110af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,5 +116,5 @@
     33.16544,
     35.23034000000001
 ],
-  "geometry": {"coordinates":[33.16544,35.23034000000001],"type":"Point"}
+  "geometry": {"coordinates":[33.16544,35.23034],"type":"Point"}
 }

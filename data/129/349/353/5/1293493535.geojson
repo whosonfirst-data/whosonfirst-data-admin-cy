@@ -68,7 +68,7 @@
         "wk:page":"Beyk%C3%B6y"
     },
     "wof:country":"CY",
-    "wof:geomhash":"583e7d7428b5662d95db066ae0d6ba25",
+    "wof:geomhash":"5afcc2a1d36e68f458e6e7b7ee4adb83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,5 +107,5 @@
     33.48398,
     35.23900000000001
 ],
-  "geometry": {"coordinates":[33.48398,35.23900000000001],"type":"Point"}
+  "geometry": {"coordinates":[33.48398,35.239],"type":"Point"}
 }
