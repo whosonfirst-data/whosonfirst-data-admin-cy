@@ -1,0 +1,81 @@
+{
+  "id": 9895016111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95288,35.11325,33.95288,35.11325",
+    "geom:latitude":35.11325,
+    "geom:longitude":33.95288,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11952697: name \"Agios Nikolaos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11952697"
+        },
+        {
+            "citation":"GeoNames populated place 11952697: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11952697"
+        },
+        {
+            "citation":"GeoNames populated place 11952697: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11952697"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682389 (\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632375,
+        85632437,
+        85682389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11952697
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"e0b4f51b0963163b2eb032dfcd2a1a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":9895016111,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":9895016111,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":9895016111,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Agios Nikolaos",
+    "wof:parent_id":85682389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95288,
+    35.11325,
+    33.95288,
+    35.11325
+],
+  "geometry": {"coordinates":[33.95288,35.11325],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895016159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59844,34.91714,33.59844,34.91714",
+    "geom:latitude":34.91714,
+    "geom:longitude":33.59844,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12110863: name \"Kamares\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12110863"
+        },
+        {
+            "citation":"GeoNames populated place 12110863: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12110863"
+        },
+        {
+            "citation":"GeoNames populated place 12110863: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12110863"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682407 (Larnaca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682407,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12110863
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"b6ed82ee830aed8261541872527d4ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016159,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":9895016159,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Kamares",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59844,
+    34.91714,
+    33.59844,
+    34.91714
+],
+  "geometry": {"coordinates":[33.59844,34.91714],"type":"Point"}
+}

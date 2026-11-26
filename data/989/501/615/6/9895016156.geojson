@@ -1,0 +1,72 @@
+{
+  "id": 9895016156,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59269,34.95374,33.59269,34.95374",
+    "geom:latitude":34.95374,
+    "geom:longitude":33.59269,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12110860: name \"Apostolos Loukas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12110860"
+        },
+        {
+            "citation":"GeoNames populated place 12110860: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12110860"
+        },
+        {
+            "citation":"GeoNames populated place 12110860: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12110860"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682407 (Larnaca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682407,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12110860
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"3b0eb9c486f41ff89a768e254efed782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016156,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":9895016156,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Apostolos Loukas",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59269,
+    34.95374,
+    33.59269,
+    34.95374
+],
+  "geometry": {"coordinates":[33.59269,34.95374],"type":"Point"}
+}

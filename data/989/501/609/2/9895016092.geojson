@@ -1,0 +1,72 @@
+{
+  "id": 9895016092,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.09088,34.70353,33.09088,34.70353",
+    "geom:latitude":34.70353,
+    "geom:longitude":33.09088,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903072: name \"Germasogeia River\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903072"
+        },
+        {
+            "citation":"GeoNames populated place 11903072: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903072"
+        },
+        {
+            "citation":"GeoNames populated place 11903072: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903072"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682411 (Limassol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903072
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"9a9d14acf0a177971514c0584680fc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016092,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":9895016092,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Germasogeia River",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.09088,
+    34.70353,
+    33.09088,
+    34.70353
+],
+  "geometry": {"coordinates":[33.09088,34.70353],"type":"Point"}
+}

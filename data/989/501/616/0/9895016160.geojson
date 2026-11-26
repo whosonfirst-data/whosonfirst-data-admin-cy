@@ -1,0 +1,72 @@
+{
+  "id": 9895016160,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.61788,34.94078,33.61788,34.94078",
+    "geom:latitude":34.94078,
+    "geom:longitude":33.61788,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12110864: name \"Kokkines\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12110864"
+        },
+        {
+            "citation":"GeoNames populated place 12110864: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12110864"
+        },
+        {
+            "citation":"GeoNames populated place 12110864: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12110864"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682407 (Larnaca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682407,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12110864
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"2ce986a1d48b1cd840836e7e79d675ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016160,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":9895016160,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Kokkines",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.61788,
+    34.94078,
+    33.61788,
+    34.94078
+],
+  "geometry": {"coordinates":[33.61788,34.94078],"type":"Point"}
+}

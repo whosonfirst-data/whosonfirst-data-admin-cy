@@ -1,0 +1,72 @@
+{
+  "id": 9895016096,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04284,34.69809,33.04284,34.69809",
+    "geom:latitude":34.69809,
+    "geom:longitude":33.04284,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903076: name \"Kontovathkia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903076"
+        },
+        {
+            "citation":"GeoNames populated place 11903076: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903076"
+        },
+        {
+            "citation":"GeoNames populated place 11903076: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903076"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682411 (Limassol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903076
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"f1a195c01908a13c217c9b6222b8f6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016096,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":9895016096,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Kontovathkia",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04284,
+    34.69809,
+    33.04284,
+    34.69809
+],
+  "geometry": {"coordinates":[33.04284,34.69809],"type":"Point"}
+}

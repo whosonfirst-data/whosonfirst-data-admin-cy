@@ -1,0 +1,81 @@
+{
+  "id": 9895016109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92848,35.10762,33.92848,35.10762",
+    "geom:latitude":35.10762,
+    "geom:longitude":33.92848,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11951813: name \"Chrysospiliotissa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11951813"
+        },
+        {
+            "citation":"GeoNames populated place 11951813: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11951813"
+        },
+        {
+            "citation":"GeoNames populated place 11951813: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11951813"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682389 (\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632375,
+        85632437,
+        85682389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11951813
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"96023451cd0fb57e99cf00f12d3c17c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":9895016109,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":9895016109,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":9895016109,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Chrysospiliotissa",
+    "wof:parent_id":85682389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92848,
+    35.10762,
+    33.92848,
+    35.10762
+],
+  "geometry": {"coordinates":[33.92848,35.10762],"type":"Point"}
+}

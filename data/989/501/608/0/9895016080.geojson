@@ -1,0 +1,72 @@
+{
+  "id": 9895016080,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0577,34.69335,33.0577,34.69335",
+    "geom:latitude":34.69335,
+    "geom:longitude":33.0577,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11902875: name \"Agios Nikolaos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11902875"
+        },
+        {
+            "citation":"GeoNames populated place 11902875: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11902875"
+        },
+        {
+            "citation":"GeoNames populated place 11902875: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11902875"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682411 (Limassol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11902875
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"7da5437f5b9c7d51dc38ee6656e3ecab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016080,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":9895016080,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Agios Nikolaos",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0577,
+    34.69335,
+    33.0577,
+    34.69335
+],
+  "geometry": {"coordinates":[33.0577,34.69335],"type":"Point"}
+}

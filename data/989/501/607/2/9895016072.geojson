@@ -1,0 +1,72 @@
+{
+  "id": 9895016072,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02769,34.66635,33.02769,34.66635",
+    "geom:latitude":34.66635,
+    "geom:longitude":33.02769,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11888110: name \"Tsiflikoudia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11888110"
+        },
+        {
+            "citation":"GeoNames populated place 11888110: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11888110"
+        },
+        {
+            "citation":"GeoNames populated place 11888110: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11888110"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682411 (Limassol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11888110
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"8d250e2b650a8a25d275baf3b85e5fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016072,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":9895016072,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Tsiflikoudia",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02769,
+    34.66635,
+    33.02769,
+    34.66635
+],
+  "geometry": {"coordinates":[33.02769,34.66635],"type":"Point"}
+}

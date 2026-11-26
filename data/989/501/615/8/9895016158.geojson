@@ -1,0 +1,72 @@
+{
+  "id": 9895016158,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58308,34.90808,33.58308,34.90808",
+    "geom:latitude":34.90808,
+    "geom:longitude":33.58308,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12110862: name \"Vlachos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12110862"
+        },
+        {
+            "citation":"GeoNames populated place 12110862: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12110862"
+        },
+        {
+            "citation":"GeoNames populated place 12110862: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12110862"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682407 (Larnaca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682407,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12110862
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"0ed3a992d8a2c70986196d81b0f71dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016158,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":9895016158,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Vlachos",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58308,
+    34.90808,
+    33.58308,
+    34.90808
+],
+  "geometry": {"coordinates":[33.58308,34.90808],"type":"Point"}
+}
