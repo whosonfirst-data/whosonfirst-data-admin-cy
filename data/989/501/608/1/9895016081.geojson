@@ -1,0 +1,72 @@
+{
+  "id": 9895016081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06354,34.68907,33.06354,34.68907",
+    "geom:latitude":34.68907,
+    "geom:longitude":33.06354,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11902905: name \"Neapoli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11902905"
+        },
+        {
+            "citation":"GeoNames populated place 11902905: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11902905"
+        },
+        {
+            "citation":"GeoNames populated place 11902905: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11902905"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682411 (Limassol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11902905
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"64600ccf95f1662a97b3bfc4dd4bb5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016081,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":9895016081,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Neapoli",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06354,
+    34.68907,
+    33.06354,
+    34.68907
+],
+  "geometry": {"coordinates":[33.06354,34.68907],"type":"Point"}
+}

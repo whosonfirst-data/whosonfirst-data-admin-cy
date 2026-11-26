@@ -1,0 +1,72 @@
+{
+  "id": 9895016141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3648,35.13249,33.3648,35.13249",
+    "geom:latitude":35.13249,
+    "geom:longitude":33.3648,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11979322: name \"Stavros\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11979322"
+        },
+        {
+            "citation":"GeoNames populated place 11979322: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11979322"
+        },
+        {
+            "citation":"GeoNames populated place 11979322: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11979322"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682397 (\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682397,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11979322
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"08a4a81a6e72a2f4304106f3a2422d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016141,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":9895016141,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Stavros",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3648,
+    35.13249,
+    33.3648,
+    35.13249
+],
+  "geometry": {"coordinates":[33.3648,35.13249],"type":"Point"}
+}

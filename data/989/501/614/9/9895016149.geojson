@@ -1,0 +1,72 @@
+{
+  "id": 9895016149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.42291,34.77441,32.42291,34.77441",
+    "geom:latitude":34.77441,
+    "geom:longitude":32.42291,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12110827: name \"Paphos Municipality\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12110827"
+        },
+        {
+            "citation":"GeoNames populated place 12110827: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12110827"
+        },
+        {
+            "citation":"GeoNames populated place 12110827: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12110827"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682401 (Paphos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682401,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12110827
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"b9ef67f06bf30055de891cecc411506f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016149,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":9895016149,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Paphos Municipality",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.42291,
+    34.77441,
+    32.42291,
+    34.77441
+],
+  "geometry": {"coordinates":[32.42291,34.77441],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895016079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04567,34.68978,33.04567,34.68978",
+    "geom:latitude":34.68978,
+    "geom:longitude":33.04567,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11902773: name \"Agios Nektarios\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11902773"
+        },
+        {
+            "citation":"GeoNames populated place 11902773: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11902773"
+        },
+        {
+            "citation":"GeoNames populated place 11902773: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11902773"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682411 (Limassol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11902773
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c1fc41fb3eb9a7e046e2ac82750c2edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016079,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":9895016079,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Agios Nektarios",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04567,
+    34.68978,
+    33.04567,
+    34.68978
+],
+  "geometry": {"coordinates":[33.04567,34.68978],"type":"Point"}
+}

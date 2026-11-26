@@ -1,0 +1,81 @@
+{
+  "id": 9895016120,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23315,35.33883,33.23315,35.33883",
+    "geom:latitude":35.33883,
+    "geom:longitude":33.23315,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11952711: name \"Agios Andreas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11952711"
+        },
+        {
+            "citation":"GeoNames populated place 11952711: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11952711"
+        },
+        {
+            "citation":"GeoNames populated place 11952711: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11952711"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682393 (\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632375,
+        85632437,
+        85682393,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11952711
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"ed9adaa9c39684cb8e311f622203660d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":9895016120,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":9895016120,
+            "region_id":85682393
+        }
+    ],
+    "wof:id":9895016120,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Agios Andreas",
+    "wof:parent_id":85682393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23315,
+    35.33883,
+    33.23315,
+    35.33883
+],
+  "geometry": {"coordinates":[33.23315,35.33883],"type":"Point"}
+}

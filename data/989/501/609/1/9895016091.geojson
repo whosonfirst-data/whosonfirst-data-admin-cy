@@ -1,0 +1,72 @@
+{
+  "id": 9895016091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06746,34.70221,33.06746,34.70221",
+    "geom:latitude":34.70221,
+    "geom:longitude":33.06746,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903070: name \"Ayios Stylianos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903070"
+        },
+        {
+            "citation":"GeoNames populated place 11903070: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903070"
+        },
+        {
+            "citation":"GeoNames populated place 11903070: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903070"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682411 (Limassol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903070
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"ec20012e2565026cdf3dd8901068550c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016091,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":9895016091,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Ayios Stylianos",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06746,
+    34.70221,
+    33.06746,
+    34.70221
+],
+  "geometry": {"coordinates":[33.06746,34.70221],"type":"Point"}
+}

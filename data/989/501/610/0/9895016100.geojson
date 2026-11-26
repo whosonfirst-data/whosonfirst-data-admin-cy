@@ -1,0 +1,72 @@
+{
+  "id": 9895016100,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.99347,34.67732,32.99347,34.67732",
+    "geom:latitude":34.67732,
+    "geom:longitude":32.99347,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903080: name \"Archangel Michael\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903080"
+        },
+        {
+            "citation":"GeoNames populated place 11903080: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903080"
+        },
+        {
+            "citation":"GeoNames populated place 11903080: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903080"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682411 (Limassol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903080
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"e116aeac020c3c8a5648a3f71345f022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016100,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":9895016100,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Archangel Michael",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.99347,
+    34.67732,
+    32.99347,
+    34.67732
+],
+  "geometry": {"coordinates":[32.99347,34.67732],"type":"Point"}
+}

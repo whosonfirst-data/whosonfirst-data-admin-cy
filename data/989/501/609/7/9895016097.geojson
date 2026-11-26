@@ -1,0 +1,72 @@
+{
+  "id": 9895016097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9797,34.6977,32.9797,34.6977",
+    "geom:latitude":34.6977,
+    "geom:longitude":32.9797,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903077: name \"Saint Nicholas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903077"
+        },
+        {
+            "citation":"GeoNames populated place 11903077: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903077"
+        },
+        {
+            "citation":"GeoNames populated place 11903077: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903077"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682411 (Limassol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903077
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"6ed22151e6fe021a2e01365c455c3eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016097,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":9895016097,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Saint Nicholas",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9797,
+    34.6977,
+    32.9797,
+    34.6977
+],
+  "geometry": {"coordinates":[32.9797,34.6977],"type":"Point"}
+}

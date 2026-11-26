@@ -1,0 +1,72 @@
+{
+  "id": 9895016136,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38621,35.11236,33.38621,35.11236",
+    "geom:latitude":35.11236,
+    "geom:longitude":33.38621,
+    "iso:country":"CY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11979262: name \"Agios Eleftherios\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11979262"
+        },
+        {
+            "citation":"GeoNames populated place 11979262: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11979262"
+        },
+        {
+            "citation":"GeoNames populated place 11979262: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11979262"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682397 (\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437,
+        85682397,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11979262
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"0c415337e4085665ee3702c4fc818a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":9895016136,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":9895016136,
+    "wof:lastmodified":1795735093,
+    "wof:name":"Agios Eleftherios",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38621,
+    35.11236,
+    33.38621,
+    35.11236
+],
+  "geometry": {"coordinates":[33.38621,35.11236],"type":"Point"}
+}
